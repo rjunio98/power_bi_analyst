@@ -9,6 +9,9 @@ As duas primeiras planilhas representam meses específicos do ano (ex.: **Setemb
 - **RPA-Out2018.xlsx** → Relatório de pagamentos do mês de outubro.  
 - **RPA-Ano2018.xlsx** → Consolidação dos dados mensais e total anual.
 
+## Imagem do projeto
+[<img src="./img projetos/projeto.png">]
+
 ## 📊 Funcionalidades
 - Registro de **data, nome, CPF, valor do serviço, INSS descontado, INSS da empresa e valor líquido a pagar**.  
 - Cálculo automático dos **totais do período** e das **alíquotas do INSS**.  
